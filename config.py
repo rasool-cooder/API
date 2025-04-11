@@ -1,0 +1,2 @@
+url="https://sypbaevansijnesedspj.supabase.co"
+api="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InN5cGJhZXZhbnNpam5lc2Vkc3BqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDI0NTAyMjksImV4cCI6MjA1ODAyNjIyOX0.d4VJIj4Hl4qNpfmgjYy2HMyrAkRE7IG-zQEyMq5pf30"
