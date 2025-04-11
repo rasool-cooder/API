@@ -5,7 +5,7 @@ app = FastAPI()
 app.get("/")(lambda: {"Hello": "World"})
 
 from typing import Union
-# Hello This is comment mssg
+
 
 import bcrypt
 from fastapi import FastAPI
